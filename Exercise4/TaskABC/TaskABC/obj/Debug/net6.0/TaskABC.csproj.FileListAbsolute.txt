@@ -1,0 +1,14 @@
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.AssemblyInfoInputs.cache
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.AssemblyInfo.cs
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.csproj.CoreCompileInputs.cache
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\bin\Debug\net6.0\TaskABC.exe
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\bin\Debug\net6.0\TaskABC.deps.json
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\bin\Debug\net6.0\TaskABC.runtimeconfig.json
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\bin\Debug\net6.0\TaskABC.dll
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\bin\Debug\net6.0\TaskABC.pdb
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.dll
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\refint\TaskABC.dll
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.pdb
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\TaskABC.genruntimeconfig.cache
+C:\Users\goget\Downloads\Algorithm assignment\Exercise4\TaskABC\TaskABC\obj\Debug\net6.0\ref\TaskABC.dll
